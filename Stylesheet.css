@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    font-size: 25px;
+}
+p1{
+    color: red;
+    font-size: 15px;
+}
+.webimage{
+    width: 500px;
+    height: 500px;
+    background-image: url("images/web image.jpg");
+    border-width: 3px;
+    border-color: green;
+    border-style: solid;
+}
+H2{
+    color: aqua;
+    font-size: 25PX;
+}
+h3{
+    color: brown;
+    font-size: 25px;
+}
